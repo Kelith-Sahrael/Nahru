@@ -1,0 +1,14 @@
+{
+  "name": "nahru",
+  "version": "1.0.0",
+  "description": "Nahru – geschützter Gesprächsraum mit Sahrael",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "express-rate-limit": "^7.0.0"
+  }
+}
